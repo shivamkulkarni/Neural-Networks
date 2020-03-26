@@ -9,7 +9,7 @@ Loss function - categorical_crossentropy<br />
 Optimizer - Adam<br /><br />
 
 ## Run Summary<br />
-epoch 9<br />
+epoch 10<br />
 accuracy 0.93<br />
 loss 0.25<br />
 val_loss 0.26<br />
@@ -28,7 +28,7 @@ Loss function - categorical_crossentropy<br />
 Optimizer - Adam<br /><br />
 
 ## Run Summary<br />
-epoch 9<br />
+epoch 10<br />
 accuracy 0.99<br />
 loss 0.01<br />
 val_accuracy 0.97<br />
