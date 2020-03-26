@@ -1,7 +1,7 @@
 # Single-Layer Perceptron
 ## Model Summary<br />
 Library- Keras<br />
-Dataset - mnist<br />
+Dataset - Handwritten Digits mnist<br />
 Model - Perceptron<br />
 Number of Epochs - 10<br />
 Number of Hidden Layers - 0<br />
@@ -19,7 +19,7 @@ runtime 73.718<br /><br />
 # Multilayer Perceptron
 ## Model Summary<br />
 Library- Keras<br />
-Dataset - mnist<br />
+Dataset - Handwritten Digits mnist<br />
 Model - Perceptron<br />
 Number of Epochs - 10<br />
 Number of Hidden - 1 <br />
