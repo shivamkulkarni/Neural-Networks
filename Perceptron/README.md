@@ -15,11 +15,11 @@ Loss function - categorical_crossentropy<br />
 Optimizer - Adam<br /><br />
 
 ## Run Summary
-accuracy 0.93<br />
-loss 0.25<br />
-val_loss 0.26<br />
-val_accuracy 0.92<br />
-runtime 73.718<br /><br />
+accuracy - 0.93<br />
+loss - 0.25<br />
+val_accuracy - 0.92<br />
+val_loss - 0.26<br />
+runtime -73.718<br /><br />
 
 # Multilayer Perceptron
 ## Dataset
@@ -40,8 +40,8 @@ Loss function - categorical_crossentropy<br />
 Optimizer - Adam<br /><br />
 
 ## Run Summary
-accuracy 0.99<br />
-loss 0.01<br />
-val_accuracy 0.97<br />
-val_loss 0.07<br />
-runtime 164.573<br />
+accuracy - 0.99<br />
+loss - 0.01<br />
+val_accuracy - 0.97<br />
+val_loss - 0.07<br />
+runtime -164.573<br />
