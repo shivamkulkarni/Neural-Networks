@@ -1,7 +1,12 @@
 # Single-Layer Perceptron
-## Model Summary<br />
+## Dataset
+Name - Handwritten Digits mnist<br />
+Number of Images - 70000<br />
+Image Size - 28 x 28 <br />
+Number of Labels - 10 (Numbers 0 - 9)<br />
+
+## Model Summary
 Library- Keras<br />
-Dataset - Handwritten Digits mnist<br />
 Model - Perceptron<br />
 Number of Epochs - 10<br />
 Number of Hidden Layers - 0<br />
@@ -9,7 +14,7 @@ Activation Function - Softmax<br />
 Loss function - categorical_crossentropy<br />
 Optimizer - Adam<br /><br />
 
-## Run Summary<br />
+## Run Summary
 accuracy 0.93<br />
 loss 0.25<br />
 val_loss 0.26<br />
@@ -17,7 +22,13 @@ val_accuracy 0.92<br />
 runtime 73.718<br /><br />
 
 # Multilayer Perceptron
-## Model Summary<br />
+## Dataset
+Name - Handwritten Digits mnist<br />
+Number of Images - 70000<br />
+Image Size - 28 x 28 <br />
+Number of Labels - 10 (Numbers 0 - 9)<br />
+
+## Model Summary
 Library- Keras<br />
 Dataset - Handwritten Digits mnist<br />
 Model - Perceptron<br />
@@ -28,7 +39,7 @@ Output Layer Activation Function - Softmax<br />
 Loss function - categorical_crossentropy<br />
 Optimizer - Adam<br /><br />
 
-## Run Summary<br />
+## Run Summary
 accuracy 0.99<br />
 loss 0.01<br />
 val_accuracy 0.97<br />
