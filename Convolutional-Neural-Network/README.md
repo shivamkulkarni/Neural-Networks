@@ -17,8 +17,8 @@ Optimizer - Adam<br /><br />
 ## Run Summary<br />
 accuracy - 0.94<br />
 loss - 0.14<br />
-val_loss - 0.44<br />
 val_accuracy - 0.88<br />
+val_loss - 0.44<br />
 runtime - 614.183<br /><br />
 
 ## Layers
