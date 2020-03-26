@@ -14,13 +14,6 @@ Activation Function for Output Layer- Softmax<br />
 Loss function - categorical_crossentropy<br />
 Optimizer - Adam<br /><br />
 
-## Run Summary<br />
-accuracy - 0.94<br />
-loss - 0.14<br />
-val_accuracy - 0.88<br />
-val_loss - 0.44<br />
-runtime - 614.183<br /><br />
-
 ## Layers
 | Layer (type)                 	|    Output Shape    	| Param # 	|
 |------------------------------	|:------------------:	|---------	|
@@ -29,3 +22,10 @@ runtime - 614.183<br /><br />
 | flatten_1 (Flatten)          	|    (None, 5408)    	| 0       	|
 | dense_1 (Dense)              	|     (None, 100)    	| 540900  	|
 | dense_2 (Dense)              	|     (None, 10)     	| 1010    	|
+
+## Run Summary<br />
+accuracy - 0.94<br />
+loss - 0.14<br />
+val_accuracy - 0.88<br />
+val_loss - 0.44<br />
+runtime - 614.183<br /><br />
